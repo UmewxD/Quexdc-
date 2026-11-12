@@ -1,6 +1,6 @@
 # Quexdc — a Creative Platform
 
-Not just another scroll-and-forget app. Quexdc is my creative-platform-in-the-making: a place for ideas, expression, curious people, and the occasional “wait, I actually built this” moment.
+OKIII Not just another scroll-and-forget app alright ??? Quexdc is my! creative-platform-in-the-making: a place for ideas, expression, curious people, and the occasional “wait, I actually built this” moment.
 
 I’m building it in Flutter, one feature at a time. It’s still an early prototype, so some parts are local demos and some big ideas are still just ideas. That’s okay — the point is to make the good stuff work before making it huge.
 
