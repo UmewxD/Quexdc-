@@ -1,6 +1,14 @@
-# social_media
+# Quexdc — a Creative Platform
 
-A new Flutter project.
+Not just social media — a creative platform in the making. This Flutter app is
+an early prototype for ideas, expression, curious people, and creative
+collaboration. Some features are local demos; some ideas are still future
+plans. The goal is to make the good stuff work before making it huge.
+
+See the repository's [README](../README.md) for a quick introduction and its
+[LICENSE](../LICENSE) for the proprietary notice. Third-party dependencies and
+assets keep their own licenses. Copies of earlier revisions distributed with
+the MIT License remain covered by the MIT terms that accompanied them.
 
 ## Easter Egg videos
 
